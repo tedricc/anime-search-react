@@ -1,0 +1,9 @@
+.nores{
+  height: 500px;
+}
+
+.nores__para {
+  margin-top: 40px;
+  color: #647380;
+  font-size: 24px;
+}
